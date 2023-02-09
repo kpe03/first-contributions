@@ -20,7 +20,7 @@
 - [Kundan Sahu](https://github.com/Kundan730)
 - [Lean Dwarf](https://github.com/LeanDwarf)
 - [KP] (https://github.com/kpe03)
-[martindevelopske] (martindevelops.dev)
+- [martindevelopske] (martindevelops.dev)
   [Raghav Singh](https://github.com/RaghavSaptam)
   [Tosyne Akinnifesi](https://github.com/trextozyne)
 - [Calvin Nguyen](https://githublcom/calvinguyen)
